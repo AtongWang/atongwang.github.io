@@ -149,15 +149,10 @@ h1:before, .anchor:before {
     margin-top: 10px;
 }
 
-.paper-box-text a.paper-title {
+.paper-box-text .paper-title {
     font-size: 1.2em; /* 调整字体大小 */
     font-weight: bold; /* 加粗字体 */
     color: #00369f; /* 设置字体颜色 */
-    text-decoration: none; /* 移除下划线 */
     margin-bottom: 10px; /* 添加底部外边距 */
     display: block; /* 设置为块级元素 */
-}
-  
-.paper-box-text a.paper-title:hover {
-    text-decoration: underline; /* 悬停时显示下划线 */
 }
