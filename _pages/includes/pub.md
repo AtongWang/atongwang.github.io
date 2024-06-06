@@ -69,8 +69,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## 📚 All Publications
 
-## 📚 All Publications
-
 - `IEEE ISCC 2023` [Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning](https://doi.org/10.1109/ISCC53001.2023.9951000), **Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao. (CCF-C)
 - `IJCNN 2023` [Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model](https://doi.org/10.1109/IJCNN54540.2023.01), **Tong Wang**, Xiaohui Kuang, Huan Deng, Taotao Gu, Wei Kong, Jianwen Tian, Gang Zhao. (CCF-C)
 - `ICONIP 2023` [ADV-POST: Physically Realistic Adversarial Poster for Attacking Semantic Segmentation Models in Autonomous Driving](https://doi.org/10.1007/978-3-031-21369-5_27), Huan Deng, Minhuan Huang, **Tong Wang**, Hu Li, Jianwen Tian, Qian Yan, Xiaohui Kuang. (CCF-C)
