@@ -15,8 +15,8 @@
    </div>
   </div>
 <div class='paper-box-text' markdown="1">
-
-Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model \\
+ <a href="https://doi.org/10.1109/IJCNN54540.2023.10191164" class="paper-title">Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model</a> \\
+ 
 **Tong Wang**, Xiaohui Kuang, Huan Deng, Taotao Gu, Wei Kong, Jianwen Tian, Gang Zhao
 
 - We propose a **scenario evaluation model** which is integrated into the risk scenario generation process to enhance traditional methods.
