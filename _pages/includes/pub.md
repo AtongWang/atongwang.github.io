@@ -15,7 +15,7 @@
    </div>
   </div>
 <div class='paper-box-text' markdown="1">
- <div class="paper-title">Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model</div>
+<title>Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model</title>
 
 **Tong Wang**, Xiaohui Kuang, Huan Deng, Taotao Gu, Wei Kong, Jianwen Tian, Gang Zhao
 
