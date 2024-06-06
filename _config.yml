@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tong Wang"
-  avatar           : "images\user_image.png"
+  avatar           : "images/user_image.png"
   bio              : "National Key Laboratory of Science and Technology on Information System Security"
   location         : "China"
   employer         :
