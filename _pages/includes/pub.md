@@ -8,8 +8,10 @@
     <div>
       <div class="badge">IJCNN 2023</div>
       <img src='images/sem.png' alt="sym" width="100%">
-      <button class="btn" onclick="openLink('https://doi.org/10.1109/IJCNN54540.2023.10191164')">Paper</button>
-      <button class="btn" onclick="toggleBibtex('bibtex1')">BibTeX</button>
+      <div class="button-container">
+        <button class="btn" onclick="openLink('https://doi.org/10.1109/IJCNN54540.2023.10191164')">Paper</button>
+        <button class="btn" onclick="toggleBibtex('bibtex1')">BibTeX</button>
+      </div>
    </div>
   </div>
 <div class='paper-box-text' markdown="1">
