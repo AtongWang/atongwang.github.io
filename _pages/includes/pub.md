@@ -20,24 +20,62 @@
 
 **Tong Wang**, Xiaohui Kuang, Huan Deng, Taotao Gu, Wei Kong, Jianwen Tian, Gang Zhao
 
-- We propose a **scenario evaluation model** which is integrated into the risk scenario generation process to enhance traditional methods.
-- We present a **scenario-based testing framework** based on the CARLA Autonomous Driving Leaderboard that enables the study of risk scenario generation for new open-source autonomous driving systems.
-- We conduct a first **cross-sectional comparison** of three open-source high-performance systems, LAV, Transfuser, and NEAT, in terms of risk scenario generation to demonstrate the safety distinctions between the three models.
+- Introducing a **scenario evaluation model** to enhance **risk scenario generation**.
+- Establishing a **scenario-based testing framework** using the CARLA Leaderboard to explore **risk scenarios** in autonomous driving systems.
+- Conducting a **cross-sectional comparison** of three open-source systems, LAV, Transfuser, and NEAT, to highlight **safety distinctions**.
     
 <pre id="bibtex1" class="bibtex" style="display:none;">
-@inproceedings{wang2023risk,
-title={Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model},
-author={Tong Wang and Xiaohui Kuang and Huan Deng and Taotao Gu and Wei Kong and Jianwen Tian and Gang Zhao},
-booktitle={International Joint Conference on Neural Networks (IJCNN)},
-year={2023},
-doi={10.1109/IJCNN54540.2023.10191164}
-}
+@INPROCEEDINGS{10191164,
+  author={Wang, Tong and Kuang, Xiaohui and Deng, Huan and Gu, Taotao and Kong, Wei and Tian, Jianwen and Zhao, Gang},
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Deep learning;Neural networks;Closed box;Search problems;Robustness;Entropy;Safety},
+  doi={10.1109/IJCNN54540.2023.10191164}}
 </pre>
   </div>
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ISCC 2023</div>
+      <img src='images/adv.png' alt="sym" width="100%">
+      <div class="button-container">
+        <button class="btn" onclick="openLink('https://doi.org/10.1109/ISCC58397.2023.10218291')">Paper</button>
+        <button class="btn" onclick="toggleBibtex('bibtex2')">BibTeX</button>
+      </div>
+   </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
+### Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning
+
+**Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao
+
+- Conducting a study on **ADS** using the CARLA Leaderboard, focusing on **adversarial example generation**.
+- Proposing a **data collection theory** for generating adversarial examples with **post-realism optimization**.
+- Developing an **effective loss function** targeting ADS through **route planning and control signal information**.
+- Implementing adversarial patches, specifically in the form of a **T-shirt**, to demonstrate **dangerous behaviors** in ADS under simulation.
+    
+<pre id="bibtex2" class="bibtex" style="display:none;">
+@INPROCEEDINGS{10218291,
+  author={Wang, Tong and Kuang, Xiaohui and Li, Hu and Du, Qianjin and Hu, Zhanhao and Deng, Huan and Zhao, Gang},
+  booktitle={2023 IEEE Symposium on Computers and Communications (ISCC)}, 
+  title={Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={995-1000},
+  keywords={Deep learning;Measurement;Pedestrians;Lighting;Behavioral sciences;Safety;Security;Autonomous driving systems;Deep learning techniques;Adversarial examples;Security vulnerabilities},
+  doi={10.1109/ISCC58397.2023.10218291}}
+</pre>
+  </div>
+</div>
 
 
 
