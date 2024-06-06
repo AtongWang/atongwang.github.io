@@ -4,28 +4,26 @@
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2023</div><img src='images/sem.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model](https://doi.org/10.1109/IJCNN54540.2023.10191164) \\
-**Tong Wang**, Xiaohui Kuang, Huan Deng, Taotao Gu, Wei Kong, Jianwen Tian, Gang Zhao
+ <div class='paper-box-text' markdown="1">
+    <a href="https://doi.org/10.1109/IJCNN54540.2023.10191164">Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model</a> \\
+    **Tong Wang**, Xiaohui Kuang, Huan Deng, Taotao Gu, Wei Kong, Jianwen Tian, Gang Zhao
 
-- We propose a **scenario evaluation model** which is integrated into the risk scenario generation process to enhance traditional methods.
-- We present a **scenario-based testing framework** based on the CARLA Autonomous Driving Leaderboard that enables the study of risk scenario generation for new open-source autonomous driving systems.
-- We conduct a first **cross-sectional comparison** of three open-source high-performance systems, LAV, Transfuser, and NEAT, in terms of risk scenario generation to demonstrate the safety distinctions between the three models.
-</div>
-</div>
-
-<button onclick="toggleBibtex('bibtex1')">Show BibTeX</button>
-<pre id="bibtex1" style="display:none;">
-@article{example2023,
-  title={Example Title},
-  author={Author Name},
-  journal={Journal Name},
+    - We propose a **scenario evaluation model** which is integrated into the risk scenario generation process to enhance traditional methods.
+    - We present a **scenario-based testing framework** based on the CARLA Autonomous Driving Leaderboard that enables the study of risk scenario generation for new open-source autonomous driving systems.
+    - We conduct a first **cross-sectional comparison** of three open-source high-performance systems, LAV, Transfuser, and NEAT, in terms of risk scenario generation to demonstrate the safety distinctions between the three models.
+    
+    <pre id="bibtex1" style="display:none;">
+@inproceedings{wang2023risk,
+  title={Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model},
+  author={Tong Wang and Xiaohui Kuang and Huan Deng and Taotao Gu and Wei Kong and Jianwen Tian and Gang Zhao},
+  booktitle={International Joint Conference on Neural Networks (IJCNN)},
   year={2023},
-  volume={1},
-  pages={1-10}
+  doi={10.1109/IJCNN54540.2023.10191164}
 }
-</pre>
+    </pre>
+  </div>
+</div>
 
 
 
