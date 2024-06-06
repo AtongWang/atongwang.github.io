@@ -15,6 +15,17 @@
 </div>
 </div>
 
+<button onclick="toggleBibtex('bibtex1')">Show BibTeX</button>
+<pre id="bibtex1" style="display:none;">
+@article{example2023,
+  title={Example Title},
+  author={Author Name},
+  journal={Journal Name},
+  year={2023},
+  volume={1},
+  pages={1-10}
+}
+</pre>
 
 
 
