@@ -69,15 +69,24 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## 📚 All Publications
 
-- `IEEE ISCC 2023` [Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning](https://doi.org/10.1109/ISCC53001.2023.9951000), **Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao. (CCF-C)
-- `IJCNN 2023` [Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model](https://doi.org/10.1109/IJCNN54540.2023.01), **Tong Wang**, Xiaohui Kuang, Huan Deng, Taotao Gu, Wei Kong, Jianwen Tian, Gang Zhao. (CCF-C)
-- `ICONIP 2023` [ADV-POST: Physically Realistic Adversarial Poster for Attacking Semantic Segmentation Models in Autonomous Driving](https://doi.org/10.1007/978-3-031-21369-5_27), Huan Deng, Minhuan Huang, **Tong Wang**, Hu Li, Jianwen Tian, Qian Yan, Xiaohui Kuang. (CCF-C)
-- `IJCNN 2021` [An Efficient Method to Measure Robustness of ReLU-Based Classifiers via Search Space Pruning](https://doi.org/10.1109/IJCNN52387.2021.01), Xinping Wang, Liangyu Chen, **Tong Wang**, Mingang Chen, Min Zhang. (CCF-C)
-- `APNOMS 2023` [Test Suite Generation Based on Context-Adapted Structural Coverage for Testing DNN](https://doi.org/10.1109/APNOMS55753.2023.01), Wei Kong, Qianjin Du, Huayang Cao, Hu Li, **Tong Wang**, Jianwen Tian, Xiaohui Kuang. (CCF-C)
-- `信息安全学报` [物理对抗补丁攻击与防御技术研究综述](https://doi.org/10.3724/SP.J.1016.2023.0001), 邓欢, 黄敏桓, 李虎, **王彤**, 况晓辉. (CCF-B)
-- `New Frontiers in Adversarial Machine Learning 2023` [Toward Testing Deep Learning Library via Model Fuzzing](https://doi.org/10.1109/NFAML54321.2023.01), Wei Kong, Huayang Cao, **Tong Wang**, Yuanping Nie, Hu Li, Xiaohui Kuang.
-- `ICSIP 2022` [DP2Net: Defense Against Adversarial Examples by Detecting Perturbed Pixels](https://doi.org/10.1109/ICSIP55912.2022.01), **Tong Wang**, Haitian Liu, Feng Wang, Junchao Du, Yang Bao. 
-- `AEMCSE 2021` [Safety Testing of Neural Network for Image Classification](https://doi.org/10.1109/AEMCSE54092.2021.01), **Tong Wang**, Feng Wang, YunZhi Xue, Yang Bao.
-- `DSA 2020` [A Coverage-Based Effective Data Augmentation Framework](https://doi.org/10.1109/DSA49782.2020.01), Shuting Kang, **Tong Wang**, PengQi Wang, Feng Wang, Qian Dong, Guang Yang, LingZhong Meng, YunZhi Xue.
+### 📅 2023
+
+- ``ICONIP 2023`` [ADV-POST: Physically Realistic Adversarial Poster for Attacking Semantic Segmentation Models in Autonomous Driving](https://doi.org/10.1007/978-981-99-8178-6_27), Huan Deng, Minhuan Huang, **Tong Wang**, Hu Li, Jianwen Tian, Qian Yan, Xiaohui Kuang. **(CCF-C)**
+- ``APNOMS 2023`` [Test Suite Generation Based on Context-Adapted Structural Coverage for Testing DNN](https://doi.org/10.1109/APNOMS55753.2023.01), Wei Kong, Qianjin Du, Huayang Cao, Hu Li, **Tong Wang**, Jianwen Tian, Xiaohui Kuang. **(CCF-C)**
+- ``IEEE ISCC 2023`` [Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning](https://doi.org/10.1109/ISCC58397.2023.10218291), **Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao. **(CCF-C)**
+- ``AdvML 2023`` [Toward Testing Deep Learning Library via Model Fuzzing](https://openreview.net/forum?id=fZuF5q8Fgx), Wei Kong, Huayang Cao, **Tong Wang**, Yuanping Nie, Hu Li, Xiaohui Kuang.
+- `信息安全学报` [物理对抗补丁攻击与防御技术研究综述](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?flag=2&file_no=202303150000002&journal_id=xxaqxb), 邓欢, 黄敏桓, 李虎, **王彤**, 况晓辉. **(CCF-B)**
+- ``IJCNN 2023`` [Risk Scenario Generation for Autonomous Driving Systems based on Scenario Evaluation Model](https://doi.org/10.1109/IJCNN54540.2023.10191164), **Tong Wang**, Xiaohui Kuang, Huan Deng, Taotao Gu, Wei Kong, Jianwen Tian, Gang Zhao. **(CCF-C)**
+
+### 📅 2022
+
+- ``ICSIP 2022`` [DP2Net: Defense Against Adversarial Examples by Detecting Perturbed Pixels](https://doi.org/10.1109/ICSIP55141.2022.9886169), **Tong Wang**, Haitian Liu, Feng Wang, Junchao Du, Yang Bao. 
+
+### 📅 2021
+- ``IJCNN 2021`` [An Efficient Method to Measure Robustness of ReLU-Based Classifiers via Search Space Pruning](https://doi.org/10.1109/IJCNN52387.2021.9533774), Xinping Wang, Liangyu Chen, **Tong Wang**, Mingang Chen, Min Zhang. **(CCF-C)**
+- ``AEMCSE 2021`` [Safety Testing of Neural Network for Image Classification](https://doi.org/10.1109/AEMCSE51986.2021.00129), **Tong Wang**, Feng Wang, YunZhi Xue, Yang Bao.
+
+### 📅 2020
+- ``DSA 2020`` [A Coverage-Based Effective Data Augmentation Framework](https://doi.org/10.1109/DSA51864.2020.00010), Shuting Kang, **Tong Wang**, PengQi Wang, Feng Wang, Qian Dong, Guang Yang, LingZhong Meng, YunZhi Xue.
 
 
