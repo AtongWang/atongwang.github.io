@@ -2,27 +2,7 @@
 # 📝 Publications 
 ## 🧑‍🎨 Selected Publications
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ISSTA 2024</div>
-      <img src='https://github.com/AtongWang/ScenarioFuzz/blob/master/readme_img/workflow.jpg' alt="ScenarioFuzz Workflow" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-### Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing
-
-**Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao
-
-- Introducing **ScenarioFuzz**, a novel scenario-based fuzz testing methodology.
-- Utilizing **map road networks** like OPENDRIVE to create a foundational scenario seed corpus.
-- Incorporating **specialized mutators** and **mutation techniques** with a **graph neural network model** for optimizing fuzz testing.
-- Proposing a **self-supervised collision trajectory clustering method** to identify and summarize high-risk scenario categories.
-- Successfully uncovering **58 bugs across six tested systems**, highlighting critical safety concerns in ADS.
-
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -73,6 +53,36 @@
    </div>
   </div>
 <div class='paper-box-text' markdown="1">
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ISSTA 2024</div>
+      <img src='https://github.com/AtongWang/ScenarioFuzz/blob/master/readme_img/workflow.jpg' alt="ScenarioFuzz Workflow" width="100%">
+      <div class="button-container">
+        <button class="btn" onclick="openLink('https://doi.org/xxx')">Paper</button>
+        <button class="btn" onclick="toggleBibtex('bibtex3')">BibTeX</button>
+      </div>
+   </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+### Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing
+
+**Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao
+
+- Unveiling **ScenarioFuzz**, a pioneering scenario-based fuzz testing methodology for **autonomous driving systems**.
+- Extracting essential data from **map road networks** to form a foundational scenario seed corpus for fuzz testing.
+- Integrating specialized **mutators and mutation techniques** with a **graph neural network model** to optimize the fuzzing process.
+- Reducing time cost by an average of **60.3%** and increasing error scenarios discovered per unit of time by **103%**.
+- Proposing a **self-supervised collision trajectory clustering method** to identify and summarize high-risk scenario categories.
+- Successfully uncovering **58 bugs** across six tested systems, highlighting critical safety concerns of ADS.
+
+<pre id="bibtex3" class="bibtex" style="display:none;">
+Will come soon.
+</pre>
+  </div>
+</div>
 
 ### Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning
 
