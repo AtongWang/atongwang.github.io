@@ -82,7 +82,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">ISSTA 2024</div>
-      <img src='https://github.com/AtongWang/ScenarioFuzz/blob/master/readme_img/workflow.jpg' alt="ScenarioFuzz Workflow" width="100%">
+      <img src='images/scenariofuzz.png' alt="ScenarioFuzz Workflow" width="100%">
       <div class="button-container">
         <button class="btn" onclick="openLink('https://doi.org/xxx')">Paper</button>
         <button class="btn" onclick="toggleBibtex('bibtex3')">BibTeX</button>
