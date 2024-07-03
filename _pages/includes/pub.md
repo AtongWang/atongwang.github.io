@@ -2,6 +2,27 @@
 # 📝 Publications 
 ## 🧑‍🎨 Selected Publications
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ISSTA 2024</div>
+      <img src='https://github.com/AtongWang/ScenarioFuzz/blob/master/readme_img/workflow.jpg' alt="ScenarioFuzz Workflow" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+### Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing
+
+**Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao
+
+- Introducing **ScenarioFuzz**, a novel scenario-based fuzz testing methodology.
+- Utilizing **map road networks** like OPENDRIVE to create a foundational scenario seed corpus.
+- Incorporating **specialized mutators** and **mutation techniques** with a **graph neural network model** for optimizing fuzz testing.
+- Proposing a **self-supervised collision trajectory clustering method** to identify and summarize high-risk scenario categories.
+- Successfully uncovering **58 bugs across six tested systems**, highlighting critical safety concerns in ADS.
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -80,6 +101,9 @@
 
 
 ## 📚 All Publications
+### 📅 2024
+
+- ``ISSTA 2024`` [Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing](https://doi.org/XXX/XXX), **Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao. **(CCF-A)**
 
 ### 📅 2023
 

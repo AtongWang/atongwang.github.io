@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.07*：🎉 "Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing" has been accepted at the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024, 143/694=20.6%)!
 - *2023.11*: 🎉 "ADV-POST: Physically Realistic Adversarial Poster for Attacking Semantic Segmentation Models in Autonomous Driving" presented at the International Conference on Neural Information Processing (ICONIP 2023).
 - *2023.09*: 🎉 "Test Suite Generation Based on Context-Adapted Structural Coverage for Testing DNN" presented at the 2023 24th Asia-Pacific Network Operations and Management Symposium (APNOMS 2023), and received the "[**Student Best Paper Awards**](https://apnoms.org/2023/best_papers.html)"!
 - *2023.07*: 🎉 "Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning" presented at the 2023 IEEE Symposium on Computers and Communications (ISCC 2023).
