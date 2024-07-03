@@ -54,6 +54,30 @@
   </div>
 <div class='paper-box-text' markdown="1">
 
+### Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning
+
+**Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao
+
+- Conducting a study on **ADS** using the CARLA Leaderboard, focusing on **adversarial example generation**.
+- Proposing a **data collection theory** for generating adversarial examples with **post-realism optimization**.
+- Developing an **effective loss function** targeting ADS through **route planning and control signal information**.
+- Implementing adversarial patches, specifically in the form of a **T-shirt**, to demonstrate **dangerous behaviors** in ADS under simulation.
+    
+<pre id="bibtex2" class="bibtex" style="display:none;">
+@INPROCEEDINGS{10218291,
+  author={Wang, Tong and Kuang, Xiaohui and Li, Hu and Du, Qianjin and Hu, Zhanhao and Deng, Huan and Zhao, Gang},
+  booktitle={2023 IEEE Symposium on Computers and Communications (ISCC)}, 
+  title={Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={995-1000},
+  keywords={Deep learning;Measurement;Pedestrians;Lighting;Behavioral sciences;Safety;Security;Autonomous driving systems;Deep learning techniques;Adversarial examples;Security vulnerabilities},
+  doi={10.1109/ISCC58397.2023.10218291}}
+</pre>
+  </div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -83,32 +107,6 @@ Will come soon.
 </pre>
   </div>
 </div>
-
-### Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning
-
-**Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao
-
-- Conducting a study on **ADS** using the CARLA Leaderboard, focusing on **adversarial example generation**.
-- Proposing a **data collection theory** for generating adversarial examples with **post-realism optimization**.
-- Developing an **effective loss function** targeting ADS through **route planning and control signal information**.
-- Implementing adversarial patches, specifically in the form of a **T-shirt**, to demonstrate **dangerous behaviors** in ADS under simulation.
-    
-<pre id="bibtex2" class="bibtex" style="display:none;">
-@INPROCEEDINGS{10218291,
-  author={Wang, Tong and Kuang, Xiaohui and Li, Hu and Du, Qianjin and Hu, Zhanhao and Deng, Huan and Zhao, Gang},
-  booktitle={2023 IEEE Symposium on Computers and Communications (ISCC)}, 
-  title={Driving into Danger: Adversarial Patch Attack on End-to-End Autonomous Driving Systems Using Deep Learning}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={995-1000},
-  keywords={Deep learning;Measurement;Pedestrians;Lighting;Behavioral sciences;Safety;Security;Autonomous driving systems;Deep learning techniques;Adversarial examples;Security vulnerabilities},
-  doi={10.1109/ISCC58397.2023.10218291}}
-</pre>
-  </div>
-</div>
-
-
 
 ## 📚 All Publications
 ### 📅 2024
