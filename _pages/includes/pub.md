@@ -85,6 +85,8 @@
       <img src='images/scenariofuzz.png' alt="ScenarioFuzz Workflow" width="100%">
       <div class="button-container">
         <button class="btn" onclick="openLink('https://doi.org/xxx')">Paper</button>
+        <button class="btn" onclick="openLink('https://arxiv.org/abs/2407.04359')">ArXiv</button>
+        <button class="btn" onclick="openLink('https://github.com/AtongWang/ScenarioFuzz')">Code</button>
         <button class="btn" onclick="toggleBibtex('bibtex3')">BibTeX</button>
       </div>
    </div>
