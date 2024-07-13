@@ -113,7 +113,7 @@ Will come soon.
 ## 📚 All Publications
 ### 📅 2024
 
-- ``ISSTA 2024`` [Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing](https://doi.org/XXX/XXX), **Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao. **(CCF-A)**
+- ``ISSTA 2024`` [Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing](https://arxiv.org/abs/2407.04359), **Tong Wang**, Xiaohui Kuang, Hu Li, Qianjin Du, Zhanhao Hu, Huan Deng, Gang Zhao. **(CCF-A)**
 
 ### 📅 2023
 
