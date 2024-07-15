@@ -84,7 +84,7 @@
       <div class="badge">ISSTA 2024</div>
       <img src='images/scenariofuzz.png' alt="ScenarioFuzz Workflow" width="100%">
       <div class="button-container">
-        <button class="btn" onclick="openLink('https://arxiv.org/abs/2407.04359')">Paper</button>
+        <button class="btn" onclick="openLink('https://2024.issta.org/details/issta-2024-papers/87/Dance-of-the-ADS-Orchestrating-Failures-through-Historically-Informed-Scenario-Fuzzi')">Paper</button>
         <button class="btn" onclick="openLink('https://arxiv.org/abs/2407.04359')">ArXiv</button>
         <button class="btn" onclick="openLink('https://github.com/AtongWang/ScenarioFuzz')">Code</button>
         <button class="btn" onclick="toggleBibtex('bibtex3')">BibTeX</button>
@@ -113,7 +113,7 @@ Will come soon.
 ## 📚 All Publications
 ### 📅 2024
 
-- ``ISSTA 2024`` [Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing](https://arxiv.org/abs/2407.04359), **Tong Wang**, Taotao Gu, Huan Deng, Hu Li, Xiaohui Kuang, Gang Zhao. **(CCF-A)**
+- ``ISSTA 2024`` [Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing](https://2024.issta.org/details/issta-2024-papers/87/Dance-of-the-ADS-Orchestrating-Failures-through-Historically-Informed-Scenario-Fuzzi), **Tong Wang**, Taotao Gu, Huan Deng, Hu Li, Xiaohui Kuang, Gang Zhao. **(CCF-A)**
 
 
 ### 📅 2023
