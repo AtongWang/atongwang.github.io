@@ -105,7 +105,22 @@
 - Successfully uncovering **58 bugs** across six tested systems, highlighting critical safety concerns of ADS.
 
 <pre id="bibtex3" class="bibtex" style="display:none;">
-Will come soon.
+@inproceedings{10.1145/3650212.3680344,
+author = {Wang, Tong and Gu, Taotao and Deng, Huan and Li, Hu and Kuang, Xiaohui and Zhao, Gang},
+title = {Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing},
+year = {2024},
+isbn = {9798400706127},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3650212.3680344},
+doi = {10.1145/3650212.3680344},
+booktitle = {Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},
+pages = {1086–1098},
+numpages = {13},
+keywords = {Autonomous Driving Systems, Fuzzing, Scenario-based Testing},
+location = {Vienna, Austria},
+series = {ISSTA 2024}
+}
 </pre>
   </div>
 </div>
