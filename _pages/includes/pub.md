@@ -128,7 +128,7 @@ series = {ISSTA 2024}
 ## 📚 All Publications
 ### 📅 2024
 
-- ``NDSS 2025`` [Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors](https://none), Jianwen Tian, Kefan Qiu, Debin Gao, **Tong Wang**, Wei Kong, Taotao Gu, Zhi Wang, Xiaohui Kuang. **(CCF-C)**
+- ``NDSS 2025`` [Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors](https://none), Jianwen Tian, Kefan Qiu, Debin Gao, **Tong Wang**, Wei Kong, Taotao Gu, Zhi Wang, Xiaohui Kuang. **(CCF-A)**
 - ``Trustcom 2024`` [Enhancing Adversarial Robustness through Self-Supervised Confidence-Based Denoising](https://none), Yongkang Chen, **Tong Wang**, Wei Kong, Taotao Gu, Guiling Cao, Xiaohui Kuang. **(CCF-C)**
 - ``ISSTA 2024`` [Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing](https://2024.issta.org/details/issta-2024-papers/87/Dance-of-the-ADS-Orchestrating-Failures-through-Historically-Informed-Scenario-Fuzzi), **Tong Wang**, Taotao Gu, Huan Deng, Hu Li, Xiaohui Kuang, Gang Zhao. **(CCF-A)**
 
