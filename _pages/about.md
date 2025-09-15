@@ -15,4 +15,6 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
+{% include_relative includes/academic.md %}
+
 {% include_relative includes/others.md %}

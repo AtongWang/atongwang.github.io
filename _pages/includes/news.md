@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.09*：🎉 "Parallel Fuzzing based on Sub-tasks Scheduling" has been accepted at ACM Transactions on Software Engineering and Methodology (TOSEM)!
 - *2024.11*：🎉 "Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors" has been accepted at the Network and Distributed System Security Symposium 2025 - Fall Review Cycle (NDSS 2025 Fall)!
 - *2024.11*：🎉 "Enhancing Adversarial Robustness through Self-Supervised Confidence-Based Denoising" has been accepted at the 23rd IEEE TrustCom (TrustCom 2024, 110/555=19.82%).
 - *2024.07*：🎉 "Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing" has been accepted at the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024, 143/694=20.6%)!

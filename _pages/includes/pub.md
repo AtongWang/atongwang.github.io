@@ -126,9 +126,15 @@ series = {ISSTA 2024}
 </div>
 
 ## 📚 All Publications
+
+### 📅 2025
+
+- ``TOSEM`` [Parallel Fuzzing based on Sub-tasks Scheduling](https://dl.acm.org/doi/10.1145/3766542), Taotao Gu, Xiaohui Kuang, **Tong Wang**, Xiang Li, Shuaibing Lu, Yuanping Nie, Zhaowei Zhang, Gang Zhao. **(CCF-A, SCI Q1)**
+- ``NDSS 2025`` [Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors](https://doi.org/10.14722/ndss.2025.240336), Jianwen Tian, Wei Kong, Debin Gao, **Tong Wang**, Taotao Gu, Kefan Qiu, Zhi Wang, Xiaohui Kuang. **(CCF-A)**
+- ``IJFCC`` [VR City: A Tool for Understanding Control Flow in Linux Kernel](https://www.ijfcc.org/show-117-1021-1.html), Shuanghui Yi, Xiaoyan Su, **Tong Wang**, Shaobo Yu, Bingru Wu, Hang Li.
+
 ### 📅 2024
 
-- ``NDSS 2025`` [Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors](https://none), Jianwen Tian, Kefan Qiu, Debin Gao, **Tong Wang**, Wei Kong, Taotao Gu, Zhi Wang, Xiaohui Kuang. **(CCF-A)**
 - ``Trustcom 2024`` [Enhancing Adversarial Robustness through Self-Supervised Confidence-Based Denoising](https://none), Yongkang Chen, **Tong Wang**, Wei Kong, Taotao Gu, Guiling Cao, Xiaohui Kuang. **(CCF-C)**
 - ``ISSTA 2024`` [Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing](https://2024.issta.org/details/issta-2024-papers/87/Dance-of-the-ADS-Orchestrating-Failures-through-Historically-Informed-Scenario-Fuzzi), **Tong Wang**, Taotao Gu, Huan Deng, Hu Li, Xiaohui Kuang, Gang Zhao. **(CCF-A)**
 
