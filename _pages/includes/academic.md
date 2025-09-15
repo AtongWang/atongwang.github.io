@@ -2,5 +2,5 @@
 
 ## 📝 Reviewer Experience
 
-- **Information Processing & Management (IPM)** - Reviewer
-- **International Joint Conference on Neural Networks (IJCNN)** - Reviewer
+- Information Processing & Management (IPM) - Reviewer
+- International Joint Conference on Neural Networks (IJCNN) - Reviewer

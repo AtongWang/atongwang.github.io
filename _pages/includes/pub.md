@@ -129,7 +129,7 @@ series = {ISSTA 2024}
 
 ### 📅 2025
 
-- ``TOSEM`` [Parallel Fuzzing based on Sub-tasks Scheduling](https://dl.acm.org/doi/10.1145/3766542), Taotao Gu, Xiaohui Kuang, **Tong Wang**, Xiang Li, Shuaibing Lu, Yuanping Nie, Zhaowei Zhang, Gang Zhao. **(CCF-A, SCI Q1)**
+- ``TOSEM`` [Parallel Fuzzing based on Sub-tasks Scheduling](https://dl.acm.org/doi/10.1145/3766542), Taotao Gu, **Tong Wang**, Xiang Li, Shuaibing Lu, Yuanping Nie, Zhaowei Zhang, Xiaohui Kuang, Gang Zhao. **(CCF-A, SCI Q1)**
 - ``NDSS 2025`` [Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors](https://doi.org/10.14722/ndss.2025.240336), Jianwen Tian, Wei Kong, Debin Gao, **Tong Wang**, Taotao Gu, Kefan Qiu, Zhi Wang, Xiaohui Kuang. **(CCF-A)**
 - ``IJFCC`` [VR City: A Tool for Understanding Control Flow in Linux Kernel](https://www.ijfcc.org/show-117-1021-1.html), Shuanghui Yi, Xiaoyan Su, **Tong Wang**, Shaobo Yu, Bingru Wu, Hang Li.
 
