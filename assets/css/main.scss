@@ -40,14 +40,75 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+:root {
+    --surface-bg: #f7f9fc;
+    --panel-bg: #ffffff;
+    --panel-border: #e6ebf2;
+    --panel-shadow: 0 10px 28px rgba(25, 48, 86, 0.08);
+    --soft-shadow: 0 4px 12px rgba(18, 39, 75, 0.12);
+}
+
+body {
+    background: radial-gradient(circle at 8% 0%, #eef3ff 0, #f7f9fc 34%, #f9fbff 100%);
+}
+
+.masthead {
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: saturate(1.1) blur(8px);
+    box-shadow: 0 2px 10px rgba(19, 35, 64, 0.07);
+}
+
+.page__content {
+    p,
+    li,
+    dl {
+        line-height: 1.7;
+    }
+
+    h2,
+    h3 {
+        margin-top: 1.25em;
+        letter-spacing: 0.01em;
+    }
+
+    a {
+        text-decoration-thickness: 1.5px;
+        text-underline-offset: 2px;
+    }
+}
+
+.archive a,
+.author__urls a,
+.social-icons a {
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 2px;
+}
+
+.profile_box,
+.author__urls {
+    border-radius: 10px;
+}
+
+.author__avatar img,
+.archive__item-teaser,
+.notice {
+    box-shadow: var(--soft-shadow);
+}
+
+@media print {
+    body {
+        background: #fff;
+    }
+}
+
 .paper-box {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    border-bottom: 1px solid var(--panel-border);
+    padding: 1.8em 0;
     
 
     .paper-box-image{
@@ -55,10 +116,20 @@
         display: flex;
         width: 100%;
         order: 2;
+        > div {
+            position: relative;
+        }
         img {
-            max-width: 400px;
+            width: min(400px, 100%);
+            max-width: 100%;
+            border-radius: 6px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        img:hover {
+            transform: translateY(-2px);
+            box-shadow: 6px 8px 16px rgba(0, 0, 0, 0.22);
         }
     }
     
@@ -101,11 +172,13 @@ h1:before, .anchor:before {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    top: 0.8em;
+    left: -0.4em;
     color: white;
     background-color: #00369f;
-    font-size: .8em;
+    font-size: 0.8em;
+    border-radius: 999px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
 }
 
 .cbadge {
@@ -115,41 +188,53 @@ h1:before, .anchor:before {
     border-radius: 3px;
   }
   
-.btn {
-    background-color: gray;
-    color: black;
+.paper-box .btn {
+    margin-bottom: 0;
+    background-color: #5f6670;
+    color: #fff;
     padding: 10px 20px;
-    border: 2px solid black;
+    border: 0 !important;
     border-radius: 5px;
     cursor: pointer;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex: 1 1 auto; /* Allow buttons to grow and shrink */
-    min-width: 100px; /* Minimum width */
+    width: 100%;
+    min-width: 0;
     height: 40px; /* Fixed height */
+    box-sizing: border-box;
+    transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-@media (max-width: 600px) {
-    .btn {
-        flex: 1 1 100%; /* Buttons take full width on small screens */
-    }
+.paper-box .btn:hover {
+    background-color: #4b535d;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-.btn:hover {
-    background-color: #d3d3d3;
+.paper-box .btn:focus-visible {
+    outline: 2px solid #4f7dff;
+    outline-offset: 2px;
 }
 
 .bibtex {
-    border: 1px solid black;
-    padding: 10px;
+    border: 1px solid #d3dbe8;
+    border-radius: 8px;
+    padding: 12px;
     margin-top: 10px;
-    background-color: #f9f9f9;
+    background-color: #fbfcfe;
 }
   
-.btn-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px; /* Space between buttons */
+.button-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin-top: 0.6rem;
+}
+
+@include breakpoint($small) {
+    .button-container {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
 }
