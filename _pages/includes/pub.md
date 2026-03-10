@@ -7,6 +7,47 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">IPM</div>
+      <img src='images/data_factory.png' alt="DataFactory framework" width="100%">
+      <div class="button-container">
+        <button class="btn" onclick="openLink('https://doi.org/10.1016/j.ipm.2026.104723')">Paper</button>
+        <button class="btn" onclick="openLink('https://github.com/AtongWang/DataFactory')">Code</button>
+        <button class="btn" onclick="openLink('https://wisdomindata.netlify.app/')">Homepage</button>
+        <button class="btn" onclick="toggleBibtex('bibtex4')">BibTeX</button>
+      </div>
+   </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+### DataFactory: Collaborative multi-agent framework for advanced table question answering
+
+**Tong Wang**, Chi Jin, Yongkang Chen, Huan Deng, Xiaohui Kuang, Gang Zhao
+
+- Proposing **DataFactory**, a collaborative **multi-agent framework** for advanced **table question answering**.
+- Combining **large language models**, **knowledge graphs**, and **ReAct-style reasoning** to improve structured-data understanding.
+- Supporting both the open-source implementation and online project platform for reproducible research.
+
+<pre id="bibtex4" class="bibtex" style="display:none;">
+@article{WANG2026104723,
+title = {DataFactory: Collaborative multi-agent framework for advanced table question answering},
+journal = {Information Processing & Management},
+volume = {63},
+number = {6},
+pages = {104723},
+year = {2026},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2026.104723},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457326001147},
+author = {Tong Wang and Chi Jin and Yongkang Chen and Huan Deng and Xiaohui Kuang and Gang Zhao},
+keywords = {Table question answering, Multi-agent systems, Large language models, Knowledge graph, Data factory, ReAct paradigm}
+}
+</pre>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">IJCNN 2023</div>
       <img src='images/sem.png' alt="sym" width="100%">
       <div class="button-container">
@@ -127,8 +168,13 @@ series = {ISSTA 2024}
 
 ## 📚 All Publications
 
+### 📅 2026
+
+- ``IPM`` [DataFactory: Collaborative multi-agent framework for advanced table question answering](https://doi.org/10.1016/j.ipm.2026.104723), **Tong Wang**, Chi Jin, Yongkang Chen, Huan Deng, Xiaohui Kuang, Gang Zhao. **(CCF-B, SCI Q1)**
+
 ### 📅 2025
 
+- ``NLPCC 2025`` [Reward-Guided Many-Shot Jailbreaking](https://doi.org/10.1007/978-981-95-3343-5_32), Yongkang Chen, Xiaotian Zou, **Tong Wang**, Jianwen Tian, Hu Li, Xiaohui Kuang. **(CCF-C)**
 - ``TOSEM`` [Parallel Fuzzing based on Sub-tasks Scheduling](https://dl.acm.org/doi/10.1145/3766542), Taotao Gu, **Tong Wang**, Xiang Li, Shuaibing Lu, Yuanping Nie, Zhaowei Zhang, Xiaohui Kuang, Gang Zhao. **(CCF-A, SCI Q1)**
 - ``NDSS 2025`` [Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors](https://doi.org/10.14722/ndss.2025.240336), Jianwen Tian, Wei Kong, Debin Gao, **Tong Wang**, Taotao Gu, Kefan Qiu, Zhi Wang, Xiaohui Kuang. **(CCF-A)**
 - ``IJFCC`` [VR City: A Tool for Understanding Control Flow in Linux Kernel](https://www.ijfcc.org/show-117-1021-1.html), Shuanghui Yi, Xiaoyan Su, **Tong Wang**, Shaobo Yu, Bingru Wu, Hang Li.
@@ -158,5 +204,3 @@ series = {ISSTA 2024}
 
 ### 📅 2020
 - ``DSA 2020`` [A Coverage-Based Effective Data Augmentation Framework](https://doi.org/10.1109/DSA51864.2020.00010), Shuting Kang, **Tong Wang**, PengQi Wang, Feng Wang, Qian Dong, Guang Yang, LingZhong Meng, YunZhi Xue.
-
-
