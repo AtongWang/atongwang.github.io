@@ -2,6 +2,42 @@
 # 📝 Publications 
 ## 🧑‍🎨 Selected Publications
 
+<div class='paper-box spotlight-paper'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Spotlight</div>
+      <img src='images/world-model-simulators.png' alt="Eight simulator capabilities mapped across generative world models" width="100%">
+      <div class="button-container">
+        <button class="btn" onclick="openLink('https://arxiv.org/abs/2608.23070')">Paper</button>
+        <button class="btn" onclick="openLink('https://arxiv.org/pdf/2608.23070')">PDF</button>
+        <button class="btn" onclick="openLink('https://github.com/AtongWang/world-model-simulators')">Project</button>
+        <button class="btn" onclick="toggleBibtex('bibtex5')">BibTeX</button>
+      </div>
+   </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+### From Generation to Simulation: How Far Are World Models from Being True Simulators?
+
+**Tong Wang**, Huan Deng, Mucheng Yang, Yang He, Xiaohui Kuang, Gang Zhao
+
+- Presenting a **capability-based audit** of world models against eight core capabilities of traditional simulators.
+- Mapping **200 representative works** from 2018 to June 2026 across latent dynamics, video generation, and joint-embedding prediction.
+- Showing that interaction and controllability can substitute for simulator functions in specific scenarios, while physics guarantees, structured state feedback, and reproducible long-horizon evolution remain key gaps.
+- Identifying **state feedback** as the most neglected cross-route capability: only **6 of 163 implementation papers** expose runtime query interfaces.
+
+<pre id="bibtex5" class="bibtex" style="display:none;">
+@article{wang2026generation,
+  title={From Generation to Simulation: How Far Are World Models from Being True Simulators?},
+  author={Wang, Tong and Deng, Huan and Yang, Mucheng and He, Yang and Kuang, Xiaohui and Zhao, Gang},
+  journal={arXiv preprint arXiv:2608.23070},
+  year={2026},
+  url={https://arxiv.org/abs/2608.23070}
+}
+</pre>
+  </div>
+</div>
+
 
 
 <div class='paper-box'>
@@ -170,6 +206,8 @@ series = {ISSTA 2024}
 
 ### 📅 2026
 
+- ``arXiv`` [From Generation to Simulation: How Far Are World Models from Being True Simulators?](https://arxiv.org/abs/2608.23070), **Tong Wang**, Huan Deng, Mucheng Yang, Yang He, Xiaohui Kuang, Gang Zhao.
+- ``Applied Sciences`` [A Survey of Fuzzing for ROS-Based Robotic Systems](https://doi.org/10.3390/app16147250), Mucheng Yang, Jinyang Chen, **Tong Wang**, Taotao Gu, Xiao Feng, Xiaohui Kuang, Gang Zhao. **(SCI)**
 - ``IPM`` [DataFactory: Collaborative multi-agent framework for advanced table question answering](https://doi.org/10.1016/j.ipm.2026.104723), **Tong Wang**, Chi Jin, Yongkang Chen, Huan Deng, Xiaohui Kuang, Gang Zhao. **(CCF-B, SCI Q1)**
 
 ### 📅 2025

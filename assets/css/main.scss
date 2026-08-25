@@ -158,6 +158,15 @@ body {
 
 }
 
+.spotlight-paper {
+    border: 1px solid rgba(0, 54, 159, 0.22);
+    border-left: 4px solid #00369f;
+    border-radius: 10px;
+    padding: 1.8em 1.2em;
+    margin: 0.8em 0 1.8em;
+    background: rgba(0, 54, 159, 0.035);
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

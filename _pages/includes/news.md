@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.08*: 🎉 "From Generation to Simulation: How Far Are World Models from Being True Simulators?" is now available on arXiv, with a project page and a capability audit of 200 world-model studies.
+- *2026.07*: 🎉 "A Survey of Fuzzing for ROS-Based Robotic Systems" has been published in Applied Sciences.
 - *2026.03*：🎉 "DataFactory: Collaborative multi-agent framework for advanced table question answering" has been accepted in Information Processing & Management (IPM).
 - *2025.09*：🎉 "Parallel Fuzzing based on Sub-tasks Scheduling" has been accepted at ACM Transactions on Software Engineering and Methodology (TOSEM)!
 - *2025.07*：🎉 "Reward-Guided Many-Shot Jailbreaking" has been accepted at Natural Language Processing and Chinese Computing (NLPCC 2025).
